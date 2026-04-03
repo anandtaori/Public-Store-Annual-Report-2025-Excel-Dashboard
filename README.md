@@ -3,6 +3,10 @@
 ## 🚀 Project Overview
 This project focuses on building an **interactive e-commerce sales dashboard** using Excel to generate actionable insights and support business decision-making.
 
+📁 **Project Files**
+- Excel Dashboard: `Excel Dashboard Public Store Annual Report 2025.pdf` 
+- Presentation: `Presentation pdf of Public Store Annual Report 2025.pdf`
+
 ---
 
 ## 🎯 Objective
@@ -58,8 +62,7 @@ This project focuses on building an **interactive e-commerce sales dashboard** u
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/anand-taori-71b862396/  
-- 💻 GitHub: https://github.com/anandtaori  
+- 💼 LinkedIn: https://www.linkedin.com/in/anand-taori-71b862396/   
 - 📧 Email: anandtaori497@gmail.com  
 
 ---
