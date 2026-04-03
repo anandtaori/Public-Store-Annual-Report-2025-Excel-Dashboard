@@ -1,48 +1,68 @@
-# 📊 Excel Sales Dashboard – Public Store Annual Report 2025
+# 📊 Public Store Annual Report 2025 | Excel Dashboard
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
-![Dashboard](https://img.shields.io/badge/Project-Data%20Dashboard-blue)
-![Visualization](https://img.shields.io/badge/Type-Data%20Visualization-orange)
-
-## 📌 Project Overview
-This repository contains a **Sales Dashboard created using Microsoft Excel** based on store sales data.  
-The dashboard converts raw data into clear visual insights to analyze business performance, sales trends, and customer behavior.
-
-All visuals are exported and shared in **PDF format** for easy viewing.
+## 🚀 Project Overview
+This project focuses on building an **interactive e-commerce sales dashboard** using Excel to generate actionable insights and support business decision-making.
 
 ---
 
-## 📷 Dashboard Preview
-The dashboard presents multiple charts and insights from the dataset.
+## 🎯 Objective
+- Develop an annual sales report to understand customer behavior  
+- Identify key trends to improve overall sales performance  
 
 ---
 
-## 📈 Key Visualizations
-- 📅 **Orders vs Sales (Monthly Trend)** – Comparison of total sales amount and order count across months.
-- 🗺 **Sales by Top 5 States** – Shows the states generating the highest revenue.
-- 👨‍🦱👩 **Sales: Men vs Women** – Gender-wise sales comparison.
-- 📦 **Order Status Breakdown** – Delivered, Cancelled, Returned, and Refunded orders.
-- 🛒 **Orders by Sales Channel** – Performance across platforms such as Amazon, Flipkart, Myntra, Ajio, and others.
-- 👥 **Orders by Age vs Gender** – Customer demographic insights.
+## 🧹 Data Cleaning & Preparation
+- Handled missing values for better accuracy  
+- Standardized categorical data (Gender → Male/Female, Quantity → Numeric)  
+- Created **Age Groups**: Teenager, Adult, Senior  
+- Extracted **Month** from date for time-based analysis  
 
 ---
 
-## 🛠 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Dashboard Design
+## 📊 Key Insights
+- 👩 Women contribute **~64% of total sales**  
+- 🛒 Top platforms (**Amazon, Myntra, Flipkart**) contribute **~80% of total orders**  
+- 📈 Sales peak during **Q1 (Jan–Mar)** and decline in **Sep–Nov**  
+- 📍 **Maharashtra & Karnataka** are top-performing states  
+- 👥 **Adult women** are the primary customer segment  
+- 📦 **92% orders successfully delivered** (low cancellations & returns)  
 
 ---
 
-## 📂 Repository Contents
-- `Excel Dashboard Public Store Annual Report 2025.pdf` – Dashboard visuals generated from Excel data.
+## 📈 Dashboard Features
+- Interactive slicers for:
+  - Month  
+  - Category  
+  - Channel  
+- Dynamic visualizations:
+  - Sales trends  
+  - Order analysis  
+  - Customer segmentation  
 
 ---
 
-## 🎯 Project Objective
-The objective of this project is to create an **Annual Sales Report for 2025** to help Public Store analyze sales performance, understand customer behavior, and make data-driven decisions to improve sales in 2026.
+## ✅ Conclusion
+- Focus marketing strategies on **women customers**  
+- Strengthen partnerships with top-performing platforms  
+- Improve performance during low-sales months  
+- Leverage data-driven insights to maximize growth  
 
 ---
 
-⭐ If you found this project useful, consider giving it a **star** on GitHub.
+## 🛠️ Skills Used
+- Microsoft Excel  
+- Data Cleaning  
+- Data Analysis  
+- Dashboard Creation  
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/anand-taori-71b862396/  
+- 💻 GitHub: https://github.com/anandtaori  
+- 📧 Email: anandtaori497@gmail.com  
+
+---
+
+## 📌 Tags
+`Data Analytics` `Excel Dashboard` `Business Insights` `Open to Work`
